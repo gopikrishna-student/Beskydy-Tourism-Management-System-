@@ -57,13 +57,14 @@ The project demonstrates structured programming, user interaction, input validat
 
 ---
 
-## ▶ How To Run
+## How To Run.........
 
 ### Option 1: Using Janet
 
 ### Option 2: Using Docker
 
---- Project Explaination-------------
+
+---
 
 ## 📊 System Flow
 
@@ -82,7 +83,8 @@ This project was developed for academic learning to demonstrate understanding of
 
 ---
 
-## 📌 Conclusion
+##  Conclusion
 
 The Beskydy Tourism Management System successfully demonstrates a structured, menu-driven CLI application using Janet programming language. It applies real-world simulation with proper control structures and validation mechanisms.
+
 
